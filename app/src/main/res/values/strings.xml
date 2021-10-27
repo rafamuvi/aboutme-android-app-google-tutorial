@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rafael Muniz</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+        ultrices ligula commodo sodales rutrum. Nam pretium felis vitae nunc molestie, ac varius purus
+        egestas. Maecenas pretium, nulla sed interdum tincidunt, massa nibh dignissim velit, quis
+        ullamcorper augue turpis a neque. Cras justo massa, imperdiet vitae porta accumsan, rhoncus
+        et dui. Vivamus porta lorem sed tempus varius. Donec in egestas libero, vitae ultrices velit.
+        Ut ullamcorper fringilla mi, eget rutrum odio sagittis eget. Aliquam congue euismod quam, et
+        imperdiet neque vulputate eu. Fusce dignissim, nisl ut tempor ultricies, mi tortor vulputate
+        justo, in commodo ante leo id elit. Aliquam erat volutpat. Nulla pretium odio id ultricies
+        ultrices. Integer ex risus, dictum ac consequat a, dapibus at lectus. Mauris laoreet sagittis
+        nibh nec congue. Suspendisse nulla massa, posuere in libero ut, rutrum placerat quam. Nullam
+        tempus ligula vitae posuere placerat. Curabitur vestibulum leo quis orci rhoncus, eu pretium
+        felis rutrum. Integer eget lacus sodales, consectetur orci in, placerat leo. In enim ex, rutrum
+        quis facilisis eu, accumsan suscipit sem. In id semper arcu. Donec neque dolor, laoreet id
+        dictum a, ornare ut massa. Etiam eu nulla massa. Nulla facilisi. Phasellus non lacinia tellus,
+        eget aliquam enim. Vestibulum massa ex, consequat nec consectetur ut, porta eu libero. Aliquam
+        erat volutpat. Donec eu dui venenatis, dignissim leo nec, sodales nunc. Vestibulum vitae
+        ultrices ligula. Proin ut justo gravida, dictum nulla a, ultrices dui. Nullam tempor purus
+        quis ex eleifend convallis. Vestibulum rhoncus tortor magna, in iaculis ipsum feugiat non.
+        Donec egestas nibh sed risus viverra, nec ultrices ligula molestie. Vestibulum vel mi suscipit,
+        dictum erat vel, pharetra eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+        posuere cubilia curae; Sed quis tellus non arcu dignissim aliquet. Donec velit nisi, vulputate a
+        sollicitudin nec, cursus fringilla justo. Donec at ipsum erat. Integer sed sagittis libero,
+        sed malesuada sem. Suspendisse pulvinar urna eu lorem accumsan, sed efficitur sapien fringilla.
+        Donec lobortis, tellus vitae eleifend vehicula, leo nisl mollis ex, id varius ipsum elit non magna.
+        Praesent sit amet neque magna. Aenean ac metus non arcu hendrerit molestie. Integer quis velit gravida,
+        gravida leo vel, laoreet nisl. Quisque at condimentum felis, nec hendrerit tortor. Proin et
+        rutrum diam, non aliquet mauris. Sed feugiat diam fringilla augue suscipit condimentum.
+        Mauris vitae nisi pellentesque, convallis lectus sed, cursus mi. Pellentesque erat eros,
+        pulvinar vel accumsan ac, molestie nec lectus. Fusce a diam at velit congue rhoncus.
+        Cras commodo augue lacinia faucibus egestas. Proin lorem nisl, commodo sed felis in,
+        lobortis tincidunt quam. In consectetur, lorem vitae euismod gravida, tellus velit dictum
+        ligula, eu laoreet metus ligula ut erat. Nullam quis tortor elit. Proin eu malesuada felis.
+        Cras sapien erat, ultrices et velit eu, viverra pharetra sapien. Vivamus rutrum massa non
+        ipsum consectetur cursus. Vivamus auctor sit amet nibh sit amet condimentum. Quisque at purus
+        sit amet erat eleifend molestie. Etiam sagittis consequat nisl, nec placerat urna sodales
+        vitae. Nunc mattis blandit lectus et aliquet.</string>
+    <string name="whats_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
